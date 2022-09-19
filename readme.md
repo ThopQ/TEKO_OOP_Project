@@ -51,7 +51,7 @@ Make sure you have installed docker and the docker-compose plugin on your machin
 Clone the public repository to your local machine
 
 ```sh
-git clone https://github.com/ThopQ/TEKO_Kotlin-Vue-Finance.git
+git clone https://github.com/ThopQ/TEKO_OOP-Project.git
 ```
 
 Copy the .env example and fill in your desired config
