@@ -1,0 +1,14 @@
+### Gradle ###
+.gradle
+build
+
+### ENV ###
+.env
+
+### NodeJS ###
+*/*/node_modules
+*/*/dist
+
+### IDE ###
+.idea
+.vscode

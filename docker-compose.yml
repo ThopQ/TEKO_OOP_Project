@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: app
+    build:
+      context: .
+      dockerfile: .docker/app.Dockerfile
+    restart: unless-stopped
+    environment:
+      - DB_USERNAME=${DB_USERNAME}
+      - DB_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - h2db-data:/root/kotlin-vue-finance
+    ports:
+      - "80:8080"
+
+volumes:
+  h2db-data:
