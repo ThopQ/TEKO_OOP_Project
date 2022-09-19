@@ -85,4 +85,4 @@ After the container has been started, you can visit the project on _http://local
 >
 > Dario Eng - [@darioeng](https://github.com/darioeng)
 
-Project-Link: [https://github.com/ThopQ/TEKO_Kotlin-Vue-Finance](https://github.com/ThopQ/TEKO_Kotlin-Vue-Finance)
+Project-Link: [https://github.com/ThopQ/TEKO_OOP_Project](https://github.com/ThopQ/TEKO_OOP_Project)
